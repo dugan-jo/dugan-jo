@@ -11,16 +11,18 @@ const aboutMe = {
           js: ['Node', 'Express', 'GraphQL'],
           misc: ["Docker"]
        },
-    
+  
     databases: ['MongoDB', 'mySQL'],
  
     currentOccupation: "Open to work",
     currentChallenges: ["Currently working on full stack applications."]
  };
- ```
+```
 
 
-### PROGRAMS
+<h1 align="center">Programs</h1>
+ 
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -48,6 +50,9 @@ const aboutMe = {
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<br>
+<br>
+<h1 align="center">Stats</h1>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dugan-jo&theme=dark&background=000000)](https://git.io/streak-stats)
 
